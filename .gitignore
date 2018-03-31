@@ -1,3 +1,11 @@
+#Gitnore file
+
+# Config
+config.json
+
+# NPM package stuff
+package-lock.json
+
 # Logs
 logs
 *.log
