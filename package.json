@@ -1,0 +1,26 @@
+{
+  "name": "discord-canvas-bot",
+  "version": "1.0.0",
+  "description": "Draw together using a Discord bot!",
+  "main": "bot.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimbeersaftLP/Discord-Canvas-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "HimbeersaftLP",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/HimbeersaftLP/Discord-Canvas-Bot/issues"
+  },
+  "homepage": "https://github.com/HimbeersaftLP/Discord-Canvas-Bot"
+}

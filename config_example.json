@@ -1,0 +1,14 @@
+{
+  "__NOTICE:": "Copy this to config.json and edit your details",
+
+  "prefix": "+",
+
+  "discordtoken": "Your Discord bot accounts token",
+
+  "ownerid": "ID of the bot's owner, use \@YourUsernameHere or the command whoami to find it out",
+
+  "blockedusers": [
+    "an array of",
+    "blocked users"
+  ]
+}
