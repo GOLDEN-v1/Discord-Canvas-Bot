@@ -1,0 +1,18 @@
+{
+  "example": {
+    "aliases": [ "ex", "e" ],
+    "description": "An example command",
+    "args": [ "string", "string" ],
+    "reqargs":  2,
+    "usage": "<something> <adjective>",
+    "examples": [ "turtles cool", "trains awesome" ]
+  },
+  "draw": {
+    "aliases": [],
+    "description": "Start drawing.",
+    "args": [ "number", "string", "string" ],
+    "reqargs": 1,
+    "usage": "<size> [background] [foreground]",
+    "examples": [ "256 white black" ]
+  }
+}
